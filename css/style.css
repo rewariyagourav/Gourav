@@ -1,0 +1,53 @@
+/***************************Tags*********************/
+body {
+    background-color: aliceblue;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border color: grey;
+    border-width: 5px;
+    width: 10%;
+
+}
+div:hover {
+    background-color: rgb(198, 210, 221);
+}
+
+
+
+/**************************Class*********************/
+.gourav:hover {
+    background-color: brown;
+}
+.next:hover {
+    background-color: goldenrod;
+}
+.start {
+    
+    padding-left: 20%;
+}
+.divedu {
+    margin-top: px;
+    margin-bottom: px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 10px;
+    border: solid 0px;
+    
+}
+.project {
+    margin-top: ;
+    margin-bottom: ;
+    margin-left: 520px;
+    margin-right: 525px;
+    padding-left: 10px;
+}
+.language {
+    margin-top: ;
+    margin-bottom: ;
+    margin-left: 505px;
+    margin-right: 505px;
+    padding-left: 10px;
+}
